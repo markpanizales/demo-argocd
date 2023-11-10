@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://git-codecommit.us-east-1.amazonaws.com/v1/repos/demo-argocd
+    repoURL: https://github.com/markpanizales/demo-argocd.git
     targetRevision: HEAD
     path: dev
   destination: 
